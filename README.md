@@ -17,7 +17,7 @@ This project was made to practice front-end web development and UI design.
 - CSS3
 
 ## 🔗 Live Demo
-[Click here to view the page](https://github.com/Chandramauli-kashyap/signup-page)  
+[Click here to view the page]( https://chandramauli-kashyap.github.io/signup-page/)  
 
 
 ## 📌 Note
