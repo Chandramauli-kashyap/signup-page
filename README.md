@@ -24,5 +24,5 @@ This project was made to practice front-end web development and UI design.
 This project is for educational purposes only and does not include backend functionality.
 
 ## 💡 Author
-[Your Name](https://www.linkedin.com/in/your-profile)  
+[Chandramauli Kashyap](https://www.linkedin.com/in/chandramaulikashyap/)  
 
